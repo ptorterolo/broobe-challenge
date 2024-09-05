@@ -56,7 +56,7 @@ class MetricController extends Controller
             'url' => 'required|url',
             'categories' => 'required|array',
             'strategy' => 'required',
-            'currentMetrics' => 'required|array',
+            'currentMetrics' => 'required',
         ]);
     
         if ($validator->fails()) {
