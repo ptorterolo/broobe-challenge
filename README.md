@@ -1,4 +1,4 @@
-# Broobe PHP Challenge Project: Laravel 10 with PHP 8.1
+# Laravel PageSpeed Insights: Laravel 10 with PHP 8.1
 
 ## Screenshots
 ![Home screenshot](public/screenshots/challenge-1.png)
